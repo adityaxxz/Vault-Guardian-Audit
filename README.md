@@ -18,7 +18,7 @@ To prevent a vault guardian from running off with the funds, the vault guardians
 
 - [Aave v3](https://aave.com/) 
 - [Uniswap v2](https://uniswap.org/) 
-- None (just hold) 
+- None (just hold the funds) 
 
 These 2 protocols (plus "none" makes 3) are known as the "investable universe".
 
