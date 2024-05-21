@@ -1,5 +1,5 @@
 # Vault Guardian Audit
-- [Whats Vault Guardian](#whats-vault-guardian)
+- [What's Vault Guardian](#whats-vault-guardian)
 - [User flow](#user-flow)
 - [The DAO](#the-dao)
 - [Summary](#summary)
@@ -8,7 +8,7 @@
 
 [Audit-Report-HERE](audit-data/report.pdf)
 
-## Whats Vault Guardian
+## What's Vault Guardian
 
 This protocol allows users to deposit certain ERC20s into an [ERC4626 vault](https://eips.ethereum.org/EIPS/eip-4626) managed by a human being, or a `vaultGuardian`. The goal of a `vaultGuardian` is to manage the vault in a way that maximizes the value of the vault for the users who have despoited money into the vault.
 
